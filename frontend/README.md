@@ -11,6 +11,8 @@
 
 If you will run all the backend in localhost, you can just run `yarn start` or `npm start`
 
+(Hint: you can open two tabs on your browser to test the chat)
+
 But if you will set different hosts for the Laravel API or for the socket.io server,
 you will probably need to change some files:
 
