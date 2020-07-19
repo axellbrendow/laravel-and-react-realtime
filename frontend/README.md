@@ -9,7 +9,7 @@
 
 1º install dependencies: `yarn` or `npm install`
 
-If you will run everything in localhost, you can just run `yarn start` or `npm start`
+If you will run all the backend in localhost, you can just run `yarn start` or `npm start`
 
 But if you will set different hosts for the Laravel API or for the socket.io server,
 you will probably need to change some files:
