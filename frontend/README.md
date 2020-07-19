@@ -16,11 +16,11 @@ you will probably need to change some files:
 
 For Laravel API:
 
-- src/services/mainApi.js
+- [src/services/mainApi.js](https://github.com/axell-brendow/laravel-and-react-realtime/blob/master/frontend/src/services/mainApi.js)
 
 For socket.io server:
 
-- src/services/laravelEcho.js
+- [src/services/laravelEcho.js](https://github.com/axell-brendow/laravel-and-react-realtime/blob/master/frontend/src/services/laravelEcho.js)
 
 ---
 
